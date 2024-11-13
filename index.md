@@ -15,7 +15,7 @@ Technical communicator, worldly and nerdy
 
 What I bring
 - an engineering background
-- diverse writing and editing experiences
+- diverse writing, editing, and teaching experiences
 - good questioning and listening skills
 - empathy for authors and readers
 - a strong collaborative spirit
