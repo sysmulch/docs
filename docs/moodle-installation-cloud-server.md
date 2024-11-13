@@ -7,9 +7,7 @@ nav_order: 2
 
 # Installing Moodle 4.0 on an Ubuntu Server
 
-> This guide is part of my [TechComm portfolio](https://documentaur.github.io/portfolio/). I created it using the [Installation Guide template (Capilano release)  from The Good Docs Project](https://gitlab.com/tgdp/templates/-/tree/main/).
-
-The Moodle LMS (Learning Management System) is an open source application. It is typically hosted on a server running a Linux distribution, such as Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/), especially the [Moodle Sandbox](https://sandbox401.moodledemo.net/). 
+The Moodle LMS (Learning Management System) is an open source application. It is typically hosted on a server running a Linux distribution, such as Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/), especially the [Moodle Sandbox](https://sandbox401.moodledemo.net/).
 
 ## System Requirements
 A dedicated server or a virtual private server
@@ -295,3 +293,7 @@ If you face difficulties during the installation, seek help on the [Moodle Commu
 ## Next Steps
 
 Read the [performance recommendations](https://docs.moodle.org/402/en/Performance_recommendations).
+
+## Acknowledgments
+
+This guide was written using [the installation guide template developed by The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md). 
