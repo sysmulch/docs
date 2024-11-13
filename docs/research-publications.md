@@ -12,6 +12,7 @@ has_children: false
 **Background:** When I was a graduate student of electrical engineering in the 2000s, I joined a plasma processing laboratory and worked on a project to explore how plasma polymerization can improve the blood compatibility of biomaterial surfaces. This work resulted in a publication in the *Journal of Applied Physics*, a leading journal in applied physics. I was the first author of this research article.
 
 [Abstract on osti.gov](https://www.osti.gov/biblio/21137234)
+
 [Full text of the article](https://pptl.engr.wisc.edu/images/publications/6.pdf)
 
 ## A MOOC approach for training researchers in developing countries
