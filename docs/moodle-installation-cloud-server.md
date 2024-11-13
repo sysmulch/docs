@@ -46,7 +46,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
    sudo mysql_secure_installation
    ```
 
-    <span style="color:red;"><strong>Caution</strong>: Save the MySQL root password somewhere.</span>
+    <span style="color:red;"><strong>Caution</strong>: Save the MySQL root password.</span>
 
 1. Install additional software and dependencies.
 
