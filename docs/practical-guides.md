@@ -19,8 +19,8 @@ In 2022, I co-authored this chapter in an open access book published by African 
 
 [Full text of the book](https://www.africanminds.co.za/wp-content/uploads/2023/02/Digital_Tech_Capacity_Dev_Web.pdf)  &mdash; see pages 65 to 130 for the chapter
 
-## How to target a journal that’s right for your research
+## How to target a journal that's right for your research
 
-In 2014, after giving a talk at a USAID conference in Tanzania, I was invited by SciDev.Net to write an article on selecting a target journal. *SciDev.Net* is a well-known news source in the science and development sector. The article I wrote was one of the most highly read articles on the website for a few weeks after publication.
+In 2014, after giving a talk at a USAID conference in Tanzania, I was invited by SciDev.Net to write a practical guide for researchers on how to select a journal for their paper. *SciDev.Net* is a well-known news source in the science and development sector. The article I wrote was one of the most highly read articles on the website for a few weeks after publication.
 
 [Article in *SciDev.Net*](https://www.scidev.net/global/practical-guides/target-journal-right-research-communicate-publish/)
