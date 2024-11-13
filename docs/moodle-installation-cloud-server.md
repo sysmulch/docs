@@ -11,7 +11,7 @@ The Moodle LMS (Learning Management System) is an open source application. It is
 
 ## System Requirements
 A dedicated server or a virtual private server
-- running only Ubuntu (version 20.04 or 22.04) and no other applications
+- running Ubuntu (version 20.04 or 22.04) and no other applications
 - with a RAM of at least 1 GB to get a basic Moodle site up and running (see Next Steps at the end of this guide for RAM recommendations)
 
 ## Before You Begin
@@ -74,31 +74,31 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
    cd /opt
    ```
 
-2. Download the Moodle code.
+1. Download the Moodle code.
 
     ```
     sudo git clone git://git.moodle.org/moodle.git
     ```
     
-3. Go to the downloaded Moodle folder.
+1. Go to the downloaded Moodle folder.
 
     ```
     cd moodle
     ```
 
-4. Retrieve a list of Moodle branches available.
+1. Retrieve a list of Moodle branches available.
 
     ```
     sudo git branch -a
     ```
 
-6. Locate the branch for git to track. To install Moodle 4.0:
+1. Locate the branch for git to track. To install Moodle 4.0:
 
     ```
     sudo git branch --track MOODLE_400_STABLE origin/MOODLE_400_STABLE
     ```
 
-7. Check out Moodle.
+1. Check out Moodle.
 
     ```
     sudo git checkout MOODLE_400_STABLE
@@ -168,7 +168,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
 
    A password prompt appears. 
 
-1. Enter the password you set in Step 1.3. The MySQL prompt appears. Type the below commands at the prompt.
+1. Enter the password you set earlier. The MySQL prompt appears. Type the below commands at the prompt.
 
     - Create the Moodle database in the MySQL server.
     
@@ -210,8 +210,8 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
     - Under Database Settings:
         - Host server: `localhost`
         - Database: `moodle`
-        - User: the username you created in Step 4.6
-        - Password: the password you created in Step 4.6
+        - User: the username you created earlier
+        - Password: the password you created earlier
     - For Tables Prefix, choose `mdl_`
 
 1. At the Environment Checks stage, check if any elements required for Moodle are not installed. Follow the instructions to install them.
