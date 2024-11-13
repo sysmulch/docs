@@ -46,7 +46,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
    sudo mysql_secure_installation
    ```
 
-    | <img style="float: left;" src="images/signal-caution.png"> | Caution | Save the MySQL root password in your password manager. |
+    | <img style="float: left;" src="../images/signal-caution.png"> | Caution | Save the MySQL root password in your password manager. |
     | :--- | :--- | :--- |
 
 1. Install additional software and dependencies.
@@ -171,7 +171,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
 
 1. Enter the password you set in Step 1.3. The MySQL prompt appears.
  
-    | <img style="float: left;" src="images/signal-note.png"> | Note | Type the below commands at the MySQL prompt. |
+    | <img style="float: left;" src="../images/signal-note.png"> | Note | Type the below commands at the MySQL prompt. |
     | :--- | :--- | :--- |
 
     - Create the Moodle database in the MySQL server.
@@ -224,7 +224,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
 
 1. At the Site Administrator account stage, create the username and password for the site administrator account.
 
-    | <img style="float: left;" src="images/signal-caution.png"> | Caution | Save the site administrator account password. |
+    | <img style="float: left;" src="../images/signal-caution.png"> | Caution | Save the site administrator account password. |
     | :--- | :--- | :--- |
 
 1. When the installation is complete, return to the Ubuntu terminal. Remove write permissions on the Moodle web directory.
