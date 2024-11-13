@@ -9,7 +9,7 @@ has_children: false
 
 ## Ten tips for research scholars aiming for their first significant publication
 
-In 2023, after many years of teaching scientific writing, I was inspired to write a practical guide to focus on a crucial stage of an aspiring researcher’s journey: their first significant publication in a scholarly journal. As far as I know, there is no practical guide that looks at scientific writing from this particular angle. I published this guide in the journal *Science Editor*, which is widely read in the scientific publishing community in the United States and elsewhere.
+In 2023, after many years of teaching scientific writing, I was inspired to write a practical guide to focus on a crucial stage of an aspiring researcher's journey: their first significant publication in a scholarly journal. As far as I know, there is no practical guide that looks at scientific writing from this particular angle. I published this guide in the journal *Science Editor*, which is widely read in the scientific publishing community in the United States and elsewhere.
 
 [Article in *Science Editor*](https://www.csescienceeditor.org/article/ten-tips-for-research-scholars-aiming-for-their-first-significant-publication/)
 
