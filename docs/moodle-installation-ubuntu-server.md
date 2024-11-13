@@ -14,7 +14,7 @@ The steps in this guide have been tested on Moodle version 4.0.
 ## System requirements
 A dedicated server or a virtual private server
 - running an Ubuntu LTS release
-- with a RAM of at least 1 GB to get a basic Moodle site up and running (see Next Steps at the end of this guide for RAM recommendations)
+- with a RAM of at least 1 GB to get a basic Moodle site up and running
 
 ## Before you begin
 You should
@@ -23,7 +23,6 @@ You should
 - know how to use a text editor in Ubuntu (such as vi or nano)
 - have root access to the Ubuntu server where you want to install Moodle
 - set aside at least one hour for this procedure
-
 
 {: .note } 
 If you experience difficulties during the installation, seek help on the [Moodle Community Forums](https://moodle.org/course/view.php?id=5).
