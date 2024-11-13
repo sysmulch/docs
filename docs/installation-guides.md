@@ -15,6 +15,6 @@ In March 2024, I set up an instance of an eScriptorium site for my wife, a libra
 
 ## Installation guide for Moodle
 
-Moodle is an open source application for developing online learning environments. Moodle has been a big part of my work. A Moodle installation guide is available on moodle.org, but I’m not quite happy with its rough-edged quality. I’ve created my own version both as a documentation exercise and as a reference for future installs.
+Moodle is an open source application for developing online learning environments. Moodle has been a big part of my work. A Moodle installation guide is available on moodle.org, but I'm not quite happy with its rough-edged quality. I've created my own version both as a documentation exercise and as a reference for future installs.
 
 [My installation guide](https://sysmulch.github.io/portfolio/docs/moodle-installation-cloud-server/) &mdash; compare with <a href="https://docs.moodle.org/405/en/Step-by-step_Installation_Guide_for_Ubuntu" target="_blank">the guide on moodle.org</a>
