@@ -5,16 +5,18 @@ parent: Installation Guides
 nav_order: 2
 ---
 
-# Installing Moodle 4.0 on an Ubuntu Server
+# Installing Moodle on an Ubuntu Server
 
-The Moodle LMS (Learning Management System) is an open source application. It is typically hosted on a server running a Linux distribution, such as Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/), especially the [Moodle Sandbox](https://sandbox401.moodledemo.net/).
+This installation guide is to help you install Moodle on a server running Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/), especially the [Moodle Sandbox](https://sandbox401.moodledemo.net/).
 
-## System Requirements
+The steps in this guide have been tested on Moodle version 4.0. 
+
+## System requirements
 A dedicated server or a virtual private server
 - running Ubuntu (version 20.04 or 22.04) and no other applications
 - with a RAM of at least 1 GB to get a basic Moodle site up and running (see Next Steps at the end of this guide for RAM recommendations)
 
-## Before You Begin
+## Before you begin
 You should
 
 - have basic Ubuntu command line skills
@@ -22,11 +24,12 @@ You should
 - have root access to the Ubuntu server where you want to install Moodle
 - set aside at least one hour for this procedure
 
+
 {: .note } 
-Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
+If you experience difficulties during the installation, seek help on the [Moodle Community Forums](https://moodle.org/course/view.php?id=5).
 
 
-## Step 1: Installing Apache, MySQL, PHP, and Additional Software
+## Step 1: Install Apache, MySQL, PHP, and additional software
 
 1. Add the PPA (personal package archive) for PHP.
 
@@ -45,8 +48,8 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
    ```
    sudo mysql_secure_installation
    ```
-
-    <span style="color:red;"><strong>Caution</strong>: Save the MySQL root password.</span>
+    {: .important }
+    Save the MySQL root password.</span>
 
 1. Install additional software and dependencies.
 
@@ -66,7 +69,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
    sudo apt install git
     ```
 
-## Step 2: Downloading Moodle
+## Step 2: Download Moodle
 
 1. Go to the opt directory.
 
@@ -104,7 +107,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
     sudo git checkout MOODLE_400_STABLE
     ```
 
-## Step 3: Creating Web Directory for Moodle
+## Step 3: Create web directory for Moodle
 
 1. Copy Moodle files into the web directory.
 
@@ -136,7 +139,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
    sudo chmod -R 0755 /var/www/html/moodle
    ```
     
-## Step 4: Setting Up MySQL Server
+## Step 4: Set up MySQL server
 
 1. Open the MySQL configuration file with a text editor (for example, vi).
 
@@ -194,7 +197,7 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
         quit;
         ```
 
-## Step 5: Completing Setup
+## Step 5: Complete the installation
 
 1. Make the Moodle web directory writable.
 
@@ -220,7 +223,8 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
 
 1. At the Site Administrator account stage, create the username and password for the site administrator account.
 
-    <span style="color:red;"><strong>Caution:</strong> Save the site administrator account password.</span>
+    {: .important }
+    Save the site administrator account password.
 
 1. When the installation is complete, return to the Ubuntu terminal. Remove write permissions on the Moodle web directory.
 
@@ -229,13 +233,13 @@ Copy the Ubuntu commands in this guide carefully into your Ubuntu terminal.
     ```
 1. You can now starting using your Moodle site at `http://IP.ADDRESS.OF.YOUR.SERVER/moodle`.
 
-## Verify Installation
+## Verify the installation
 
 If installation is successful, the dashboard of your Moodle site appears. You can access the Administration options from the top navigation bar.
 
-## Post Installation
+# Step 6: Complete post-installation tasks
 
-### System Paths
+## Check system paths
 
 Set the system paths for better system performance. Go to `Site Administration > Server > System Paths` and enter the following: 
 
@@ -243,7 +247,7 @@ Set the system paths for better system performance. Go to `Site Administration >
 - Path to apsell: `/usr/bin/aspell`
 - Path to dot: `/usr/bin/dot`
 
-**If you do not have an anti-virus application on your server:**
+If you do not have an anti-virus application on your server:
 
 1. Create the Quarantine Directory.
 
@@ -259,8 +263,7 @@ Set the system paths for better system performance. Go to `Site Administration >
 
 3. Navigate to `Site Administration > Plugins > Antivirus plugins > Manage antivirus plugins`. Enable ClamAV Antivirus.
 
-
-### Configuration Options
+## Check configuration options
 
 The main configuration file for Moodle is `config.php`. It is in `/var/www/html/moodle`.
 
@@ -268,27 +271,18 @@ The main configuration file for Moodle is `config.php`. It is in `/var/www/html/
 
 To make Moodle accessible from `http://IP.ADDRESS.OF.YOUR.SERVER/` instead of `http://IP.ADDRESS.OF.YOUR.SERVER/moodle`, make this change in `$CFG->wwwroot` in `config.php`.
 
-
-### Upgrade Options
+## Understand upgrade options
 
 To upgrade Moodle to a higher version, see [this page](https://docs.moodle.org/402/en/Upgrading).
 
-### Downgrade Options
-
 It is not possible to downgrade Moodle to a lower version.
 
-### Uninstallation Options
-
-To remove Moodle from your server, the quickest option is to use your hosting company's interface to reset the server and remove all applications.
-
-## Troubleshooting
-
-If you face difficulties during the installation, seek help on the [Moodle Community Forums](https://moodle.org/course/view.php?id=5).
-
-## Next Steps
+## Understand performance recommendations
 
 Read the [performance recommendations](https://docs.moodle.org/402/en/Performance_recommendations).
 
-## Acknowledgments
+<hr>
+
+# Documentation acknowledgment
 
 This guide was written using [the installation guide template developed by The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md). 
