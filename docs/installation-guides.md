@@ -2,7 +2,7 @@
 layout: default
 title: Installation Guides
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 # Installation Guides
