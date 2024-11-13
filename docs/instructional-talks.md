@@ -15,6 +15,6 @@ I am a member of The Good Docs Project, a community of technical writers. In Aug
 
 ##  Onboarding video for participants in online courses
 
-My organization runs several online courses each year, reaching thousands of participants. In 2023, I produced an onboarding video for these participants. I first made a PowerPoint file with annotated screenshots and wrote a script for the two speakers (an AuthorAID guest facilitator and me). After this video was introduced in INASP’s online courses, requests for technical support from participants reduced significantly.
+My organization runs several online courses each year, reaching thousands of participants. In 2023, I produced an onboarding video for these participants. I first made a PowerPoint file with annotated screenshots and wrote a script for the two speakers (an AuthorAID guest facilitator and me). After this video was introduced in INASP's online courses, requests for technical support from participants reduced significantly.
 
 [Video on YouTube](https://www.youtube.com/watch?v=0UNrPokjvBs)
