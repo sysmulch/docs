@@ -48,8 +48,8 @@ If you experience difficulties during the installation, seek help on the [Moodle
    ```
    sudo mysql_secure_installation
    ```
-    {: .important }
-    Save the MySQL root password.
+   {: .important }
+   Save the MySQL root password.
 
 1. Install additional software and dependencies.
 
