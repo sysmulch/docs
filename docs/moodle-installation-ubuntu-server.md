@@ -7,13 +7,13 @@ nav_order: 2
 
 # Installing Moodle on an Ubuntu Server
 
-This installation guide is to help you install Moodle on a server running Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/), especially the [Moodle Sandbox](https://sandbox401.moodledemo.net/).
+This installation guide is to help you install Moodle on a server running Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/).
 
 The steps in this guide have been tested on Moodle version 4.0. 
 
 ## System requirements
 A dedicated server or a virtual private server
-- running Ubuntu (version 20.04 or 22.04) and no other applications
+- running an Ubuntu LTS release
 - with a RAM of at least 1 GB to get a basic Moodle site up and running (see Next Steps at the end of this guide for RAM recommendations)
 
 ## Before you begin
