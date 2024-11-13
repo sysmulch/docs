@@ -8,15 +8,18 @@ permalink: /
 
 # Ravi Murugesan
 
-Training specialist, worldly and nerdy
+Technical communicator, worldly and nerdy
 {: .fs-6 .fw-300 }
 
 <img style="float: right; max-width: 30%; margin-left:15px;" src="images/Photograph.jpg">
 
-Working for an international development organization, I've facilitated workshops for academics in many countries and played a central role in an online learning initiative.
+What I bring
+- an engineering background
+- diverse writing and editing experiences
+- good questioning and listening skills
+- empathy for authors and readers
+- a strong collaborative spirit
 
-Check out my work samples on this site, organized into domains. And here's [my LinkedIn profile](https://www.linkedin.com/in/ravimurugesan/).
+Check out my work samples on this site. 
 
-I expect to become a U.S. permanent resident in September 2024, and I will be living in Princeton, New Jersey.
-
-My email: <sysmulch@gmail.com>
+<sysmulch@gmail.com>
