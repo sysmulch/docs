@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Research publications
+title: Research Publications
 nav_order: 4
 has_children: false
 ---
 
-# Research publications
+# Research Publications
 
 ### The effects of plasma-processing conditions on the morphology of adherent human blood platelets
 
