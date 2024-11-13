@@ -7,7 +7,7 @@ has_children: false
 
 # Research Publications
 
-### The effects of plasma-processing conditions on the morphology of adherent human blood platelets
+## The effects of plasma-processing conditions on the morphology of adherent human blood platelets
 
 When I was a graduate student of electrical engineering in the 2000s, I joined a plasma processing laboratory and worked on a project to explore how plasma polymerization can improve the blood compatibility of surfaces. This work resulted in a publication in the *Journal of Applied Physics*, a leading journal in applied physics. I was the first author of this research article.
 
