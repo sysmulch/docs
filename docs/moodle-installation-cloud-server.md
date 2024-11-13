@@ -49,7 +49,7 @@ If you experience difficulties during the installation, seek help on the [Moodle
    sudo mysql_secure_installation
    ```
     {: .important }
-    Save the MySQL root password.</span>
+    Save the MySQL root password.
 
 1. Install additional software and dependencies.
 
@@ -233,13 +233,13 @@ If you experience difficulties during the installation, seek help on the [Moodle
     ```
 1. You can now starting using your Moodle site at `http://IP.ADDRESS.OF.YOUR.SERVER/moodle`.
 
-## Verify the installation
+### Verify the installation
 
 If installation is successful, the dashboard of your Moodle site appears. You can access the Administration options from the top navigation bar.
 
-# Step 6: Complete post-installation tasks
+## Step 6: Complete post-installation tasks
 
-## Check system paths
+### Check system paths
 
 Set the system paths for better system performance. Go to `Site Administration > Server > System Paths` and enter the following: 
 
@@ -263,7 +263,7 @@ If you do not have an anti-virus application on your server:
 
 3. Navigate to `Site Administration > Plugins > Antivirus plugins > Manage antivirus plugins`. Enable ClamAV Antivirus.
 
-## Check configuration options
+### Check configuration options
 
 The main configuration file for Moodle is `config.php`. It is in `/var/www/html/moodle`.
 
@@ -271,18 +271,18 @@ The main configuration file for Moodle is `config.php`. It is in `/var/www/html/
 
 To make Moodle accessible from `http://IP.ADDRESS.OF.YOUR.SERVER/` instead of `http://IP.ADDRESS.OF.YOUR.SERVER/moodle`, make this change in `$CFG->wwwroot` in `config.php`.
 
-## Understand upgrade options
+### Understand upgrade options
 
 To upgrade Moodle to a higher version, see [this page](https://docs.moodle.org/402/en/Upgrading).
 
 It is not possible to downgrade Moodle to a lower version.
 
-## Understand performance recommendations
+### Understand performance recommendations
 
 Read the [performance recommendations](https://docs.moodle.org/402/en/Performance_recommendations).
 
 <hr>
 
-# Documentation acknowledgment
+### Documentation acknowledgment
 
 This guide was written using [the installation guide template developed by The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md). 
