@@ -8,12 +8,10 @@ permalink: /
 
 # Ravi Murugesan
 
-Technical communicator, worldly and nerdy
-{: .fs-6 .fw-300 }
-
 <img style="float: right; max-width: 30%; margin-left:15px;" src="images/Photograph.jpg">
 
-What I bring
+I am a **technical communicator** with
+
 - an engineering background
 - diverse writing, editing, and teaching experiences
 - good questioning and listening skills
@@ -22,4 +20,4 @@ What I bring
 
 Check out my work samples on this site. 
 
-<sysmulch@gmail.com>
+My email: <sysmulch@gmail.com>
