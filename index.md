@@ -12,12 +12,12 @@ permalink: /
 
 I am a **technical communicator** with
 
-- an engineering background
+- an engineering degree from UW&ndash;Madison
 - diverse writing, editing, and teaching experiences
 - good questioning and listening skills
 - empathy for authors and readers
 - a strong collaborative spirit
 
-Check out my work samples on this site. 
+Check out my work samples on this site.
 
-My email: <sysmulch@gmail.com>
+My email: <ravi@uwalumni.com>
