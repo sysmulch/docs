@@ -9,7 +9,7 @@ has_children: false
 
 ## Essentials of Scientific Writing for Publication &mdash; Kyushu University Course
 
-In 2025, I will be teaching an 8-week course for engineering students at Kyushu University in Japan. The goal of the course is to give the students a broad understanding of scientific writing for publication so that they are prepared for graduate school.
+I will be teaching an 8-week course for engineering students at Kyushu University in Japan. The goal of the course is to give the students a broad understanding of scientific writing for publication so that they are prepared for graduate school.
 
 Course outline
 
