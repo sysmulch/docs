@@ -11,4 +11,4 @@ has_children: false
 
 This piece isn't part of my professional work, but it is work in a different sense: a personal quest to understand America while I was in the immigration process over 2023 and 2024. During this quest, I took a course on the modern American novel with Oxford University's continuing education department. At the end of the course, I submitted an essay titled “The Other and the Pastoral Ideal: A Common Thread in *Ceremony* and *American Pastoral*.”
 
-[My essay](pastoral-essay.md)
+[My essay](https://sysmulch.github.io/portfolio/docs/pastoral-essay/)
