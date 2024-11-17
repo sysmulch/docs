@@ -12,7 +12,7 @@ permalink: /
 
 I am a **technical communicator** with
 
-- an engineering degree from UW&ndash;Madison
+- an engineering background
 - diverse writing, editing, and teaching experiences
 - good questioning and listening skills
 - empathy for authors and readers
