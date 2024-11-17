@@ -7,7 +7,7 @@ nav_order: 2
 
 # Installing Moodle on an Ubuntu Server
 
-This installation guide is to help you install Moodle on a server running Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/).
+This installation guide is meant to help you install the Moodle application on a server running Ubuntu. If you have not used Moodle before, explore [these ways to try Moodle](https://moodle.com/news/try-moodle/).
 
 The steps in this guide have been tested on Moodle version 4.0. 
 
@@ -283,6 +283,6 @@ Read the [performance recommendations](https://docs.moodle.org/402/en/Performanc
 
 <hr>
 
-### Documentation acknowledgment
+### Documentation credit
 
-This guide was written using [the installation guide template developed by The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md). 
+This guide was written by Ravi Murugesan using [the installation guide template from The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md). 
