@@ -7,7 +7,7 @@ has_children: false
 
 # Training Outlines
 
-## Initial Steps Towar Scientific Writing for Publication
+## Initial Steps Toward Scentific Writing for Publication
 
 I will soon be teaching an 8-week course for engineering students at Kyushu University in Japan. The goal of the course is to give the students a broad understanding of scientific writing for publication so that they are prepared for graduate school.
 
