@@ -7,9 +7,9 @@ has_children: false
 
 # Instructional Talks
 
-## Making a Business Case for Documentation
+## Making a Busines Case for Documentation
 
-I am a member of The Good Docs Project, a community of technical writers. In August 2024, I collaborated with two community members to give a talk to knowledge management professionals at the World Food Programme. The talk was about how to make a business case to improve documentation practices within an organization.
+I am a member of The Good Docs Project, a community of technical writers. In August 2024, I collaborated with two community members to give a talk to knowledge management professionals at the World Food Prgramme. The talk was about how to make a business case to improve documentation practices within an organization.
 
 [Blog post about the talk](https://www.thegooddocsproject.dev/blog/talking-good-docs-with-the-world-food-programme) &mdash; includes links to the slides and video recording
 
