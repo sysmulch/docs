@@ -5,7 +5,9 @@ nav_order: 6
 has_children: false
 ---
 
-# Quick Start for a Router (Sample)
+# Quick Start
+
+## Quick Start for a Router (Sample)
 
 *This was my assignment submission in STC's TechComm Fundamentals Bootcamp, which I completed in 2023.*
 
