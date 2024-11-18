@@ -7,14 +7,14 @@ has_children: false
 
 # Training Outlines
 
-## Essentials of Scientific Writing for Publication
+## Initial Steps Toward Scientific Writing for Publication
 
 I will soon be teaching an 8-week course for engineering students at Kyushu University in Japan. The goal of the course is to give the students a broad understanding of scientific writing for publication so that they are prepared for graduate school.
 
-Course outline
+[Course outline](/docs/scientific-writing-eight-week-course-kyushu.pdf)
 
 ## Research Writing Workshop
 
 In 2020, I designed and facilitated a 2-day writing workshop in Addis Ababa, Ethiopia, for African researchers funded by the International Science Council (ISC). The researchers were connected to ISC's *Leading Integrated Research for Agenda 2030 in Africa* program, and they were especially interested in identifying journals for their transdisciplinary work.
 
-[Workshop outline](/docs/Research-writing-workshop-LIRA-Ethiopia.pdf)
+[Workshop outline](/docs/research-writing-two-day-workshop-ethiopia.pdf)
