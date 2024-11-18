@@ -13,7 +13,7 @@ I will soon be teaching an 8-week course for engineering students at Kyushu Univ
 
 Course outline
 
-## Research Writing Workshop for LIRA 2030 Researchers
+## Research Writing Workshop
 
 In 2020, I designed and facilitated a 2-day writing workshop in Addis Ababa, Ethiopia, for African researchers funded by the International Science Council (ISC). The researchers were connected to ISC's *Leading Integrated Research for Agenda 2030 in Africa* program, and they were especially interested in identifying journals for their transdisciplinary work.
 
