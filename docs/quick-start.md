@@ -11,4 +11,4 @@ has_children: false
 
 I created this sample Quick Start guide for a router that I used in India. This guide is designed to be printed double-sided on A4 size, heavy stock paper with a tri-fold design. The guide can thus be easily packaged with the router. In this sample, the text, design, and layout are client-ready, and the hand drawings are references for a graphic artist.
 
-[See the Quick Start](quick-start-sample-router.pdf)
+[See the Quick Start](/docs/pdf/quick-start-sample-router.pdf)
