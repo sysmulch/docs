@@ -285,4 +285,4 @@ Read the [performance recommendations](https://docs.moodle.org/402/en/Performanc
 
 ### Documentation credit
 
-This guide was written by Ravi Murugesan using [the installation guide template from The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md). 
+This guide was written by Ravi Murugesan using [the installation guide template from The Good Docs Project](https://gitlab.com/tgdp/templates/-/tree/main/installation-guide).
