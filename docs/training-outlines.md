@@ -17,4 +17,4 @@ Course outline
 
 In 2020, I designed and facilitated a 2-day writing workshop in Addis Ababa, Ethiopia, for African researchers funded by the International Science Council (ISC). The researchers were connected to ISC's *Leading Integrated Research for Agenda 2030 in Africa* program, and they were especially interested in identifying journals for their transdisciplinary work.
 
-[Workshop outline](Research-writing-workshop-LIRA-Ethiopia.pdf)
+[Workshop outline](/docs/Research-writing-workshop-LIRA-Ethiopia.pdf)
