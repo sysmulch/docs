@@ -20,4 +20,7 @@ I am a **technical communicator** with
 
 Check out my work samples on this site.
 
-My email: <ravi@uwalumni.com>
+I live in Princeton, New Jersey.
+
+<ravi@uwalumni.com>
+[LinkedIn](https://www.linkedin.com/in/ravimurugesan/)
