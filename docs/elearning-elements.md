@@ -1,7 +1,7 @@
 ---
 layout: default
 title: E-learning Elements
-nav_order: 6
+nav_order: 4
 has_children: false
 ---
 
@@ -25,6 +25,6 @@ As the site administrator of INASP's LMS (learning management system), I designe
 
 - An Upcoming Events block to alert users to any upcoming events or deadlines
 - A custom HTML block with a few tips for users
-- Some visual links to add some color to the page
+- Visual links to add some color to the page
 
 [Screenshot of the dashboard](/docs/LMS-dashboard.jpg)
