@@ -21,4 +21,6 @@ For my employment history, see [my LinkedIn profile](https://www.linkedin.com/in
 
 For my publications, see [my ORCID record](https://orcid.org/0000-0002-1898-0559).
 
+I'm looking for a full-time position, ideally in service of an educational, scientific, or nonprofit mission. I'm a U.S. Permanent Resident based in New Jersey.
+
 My email: <ravi@uwalumni.com>.
