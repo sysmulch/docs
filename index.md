@@ -25,5 +25,3 @@ For my work history and recommendations, see my [LinkedIn profile](https://www.l
 For my publications, see my [ORCID record](https://orcid.org/0000-0002-1898-0559).
 
 My email: <ravi@uwalumni.com>.
-
-I live in the New York Metropolitan Area, and I am looking to contribute to an educational, scientific, or nonprofit mission.
