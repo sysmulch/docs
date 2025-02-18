@@ -13,9 +13,11 @@ permalink: /
 Editor, Teacher, Techie
 {: .fs-6 .fw-300}
 
+For most my career, I've been a combination of a science editor and a training specialist. As a science editor, I care about responsible and effective communication of science. As a training specialist, I enjoy designing and facilitating in-person and online training programs. 
+
 Check out my work samples on this site.
 
-For my work history, see [my LinkedIn profile](https://www.linkedin.com/in/ravimurugesan/).
+For my employment history, see [my LinkedIn profile](https://www.linkedin.com/in/ravimurugesan/).
 
 For my publications, see [my ORCID record](https://orcid.org/0000-0002-1898-0559).
 
