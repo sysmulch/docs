@@ -7,10 +7,11 @@ permalink: /
 ---
 
 # Ravi Murugesan
-Editor, Teacher, Techie
-{: .fs-6 .fw-300}
 
 <img style="float: right; max-width: 30%; margin-left:15px;" src="images/Photograph.jpg">
+
+Editor, Teacher, Techie
+{: .fs-6 .fw-300}
 
 Check out my work samples on this site.
 
