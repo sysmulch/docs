@@ -10,18 +10,18 @@ permalink: /
 
 <img style="float: right; max-width: 30%; margin-left:15px;" src="images/Photograph.jpg">
 
-I am a **technical communicator** with
+I live in the New York Metropolitan Area, and I am looking to contribute to an educational, scientific, or nonprofit mission.
 
-- an engineering background
-- diverse writing, editing, and teaching experiences
-- good questioning and listening skills
-- empathy for authors and readers
-- a strong collaborative spirit
+I have experience in
+
+- diverse writing, editing, and training projects;
+- collaborating with stakeholders in scholarly publishing; and
+- managing projects, analyzing data, and maintaining web applications.
 
 Check out my work samples on this site.
 
-I live in Princeton, New Jersey.
+For my work history and recommendations, see my [LinkedIn profile](https://www.linkedin.com/in/ravimurugesan/).
 
-<ravi@uwalumni.com>
+For my publications, see my [ORCID record](https://orcid.org/0000-0002-1898-0559).
 
-[LinkedIn](https://www.linkedin.com/in/ravimurugesan/)
+My email: <ravi@uwalumni.com>
