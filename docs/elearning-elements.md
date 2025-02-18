@@ -21,7 +21,7 @@ To develop the instructional resources in the course, I used an authoring tool c
 
 ## LMS Dashboard
 
-As the site administrator of INASP's LMS (learning management system), I designed a dashboard that users would see upon signing in. This LMS is built with the open source Moodle application, and I had to work with the features and constraints of this application. I also wanted to keep the dashboard simple enough and relevant enough for the 100K users on the site. So this is what I added:
+As the site administrator of INASP's LMS, I designed a dashboard that users would see upon signing in. This LMS is built with the open source Moodle application, and I had to work with the features and constraints of this application. I also wanted to keep the dashboard simple enough and relevant enough for the 100K users on the site. So this is what I added:
 
 - An Upcoming Events block to alert users to any upcoming events or deadlines
 - A custom HTML block with a few tips for users
