@@ -9,11 +9,11 @@ permalink: /
 # Ravi Murugesan
 
 <img style="float: right; max-width: 30%; margin-left:15px;" src="images/Photograph.jpg">
-<br>
-<img style="float: right; max-width: 30%; margin-left:15px;" src="images/BELS_Badge_Final.png">
 
 Editor, Teacher, Techie
 {: .fs-6 .fw-300}
+
+<img style="float: right; max-width: 30%; margin-left:15px;" src="images/BELS_Badge_Final.png">
 
 For most my career, I've been a combination of a science editor and a training specialist. As a science editor, I care about responsible and effective communication of science. As a training specialist, I enjoy designing and facilitating in-person and online training programs. 
 
