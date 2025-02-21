@@ -9,6 +9,7 @@ permalink: /
 # Ravi Murugesan
 
 <img style="float: right; max-width: 30%; margin-left:15px;" src="images/Photograph.jpg">
+<img style="float: right; max-width: 30%; margin-left:15px;" src="images/BELS_Badge_Final.png">
 
 Editor, Teacher, Techie
 {: .fs-6 .fw-300}
@@ -21,6 +22,6 @@ For my employment history, see [my LinkedIn profile](https://www.linkedin.com/in
 
 For my publications, see [my ORCID record](https://orcid.org/0000-0002-1898-0559).
 
-I'm looking for a full-time position, ideally in service of an educational, scientific, or nonprofit mission. I'm a U.S. Permanent Resident based in New Jersey.
+I'm looking for a full-time position, ideally in service of an educational, scientific, or nonprofit mission. I'm a U.S. Permanent Resident based in Princeton, New Jersey.
 
 My email: <ravi@uwalumni.com>.
